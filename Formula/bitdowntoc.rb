@@ -1,8 +1,8 @@
 class Bitdowntoc < Formula
   desc "Markdown Table Of Content (TOC) generator"
   homepage "https://derlin.github.io/bitdowntoc"
-  url "https://github.com/derlin/bitdowntoc/releases/download/v2.0.1/bitdowntoc-jvm-2.0.1.jar"
-  sha256 "17969692be48f9320fbc075167a6a28853e6cc50adb11db011b15cfefe277f85"
+  url "https://github.com/derlin/bitdowntoc/releases/download/v2.1.0/bitdowntoc-jvm-2.1.0.jar"
+  sha256 "b7a21d2a793a2ecb6c20f27aa8fffc72702daa364b2a89bed32580e302194650"
   license "Apache-2.0"
 
   depends_on "openjdk"
